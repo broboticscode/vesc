@@ -209,6 +209,7 @@ public:
   VescPacketSetDetect(uint8_t mode);
 };
 
+
 } // namespace vesc_driver
 
 #endif // VESC_DRIVER_VESC_PACKET_H_
